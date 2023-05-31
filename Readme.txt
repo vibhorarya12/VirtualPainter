@@ -3,4 +3,4 @@ Python 3.8
 mediapipe
 openCV-python
 
-References : Mutaza's Workshop(AI)
+References : Murtaza's Workshop(AI)
